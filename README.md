@@ -1,5 +1,5 @@
 # Project Summary
-This project contains part of the code required for Assignment 2 of the NUS module: ST3233 Time Series Analysis. The topic question was to use predictive analytics to see if we can accurately predict Forex Market Direction.
+This project contains part of the code required for Assignment 2 of the NUS module: ST3233 Time Series Analysis. The topic question was to use predictive analytics to see if we could accurately predict Forex Market Direction.
 
 ## Built With
 The file included is written in R programming language and was done on RStudio. RStudio is a free and open-source integrated development environment for R, a programming language for statistical computing and graphics. RStudio is available for download [here](https://www.rstudio.com/products/rstudio/download/).
